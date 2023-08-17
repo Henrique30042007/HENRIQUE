@@ -1,1 +1,6 @@
-body{ background-color: blue;}
+header{
+    body{ background: color #424e61;}
+    }
+    .cabecalho-imagem{
+    min-width: 20%;
+    }
